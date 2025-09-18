@@ -5103,9 +5103,9 @@ entries:
       catalog.cattle.io/upstream-version: 0.1.25
     apiVersion: v2
     appVersion: v0.2.4
-    created: "2025-09-17T18:38:06.740573691+08:00"
+    created: "2025-09-18T10:57:28.484038089+08:00"
     description: A Helm chart for Harvester CSI driver
-    digest: daef070ac22282a304093c8a8370cfa8853d3d13018408f2f25809e0b07e8f8a
+    digest: 713bf5e29578120a198f2234a572f43c464a6ac697b5c653fdb53f544e9240bb
     keywords:
     - infrastructure
     - harvester
