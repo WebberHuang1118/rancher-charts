@@ -15,6 +15,8 @@ fleet-crd:
   - 107.0.2+up0.13.2
 harvester-cloud-provider:
   - 107.0.2+up0.2.11
+harvester-csi-driver:
+  - 107.0.3+up0.1.25
 longhorn:
   - 107.0.0+up1.8.2
   - 107.1.0+up1.9.1
